@@ -1,1 +1,1 @@
-export const endpoint: string = "http://localhost:3000/api";
+export const endpoint: string = "https://quizkuis.vercel.app/api";
