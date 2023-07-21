@@ -1,0 +1,704 @@
+{
+  "data": [
+    {
+      "id": "jfkejfml",
+      "category": "Sains",
+      "question": "Apa nama planet terbesar di tata surya kita?",
+      "answers": ["Merkurius", "Venus", "Bumi", "Jupiter"],
+      "correct_answer": "Jupiter"
+    },
+    {
+      "id": "fgbgdft",
+      "category": "Matematika",
+      "question": "Berapakah hasil dari 8 x 3 + 12 / 6?",
+      "answers": ["16", "26", "30", "36"],
+      "correct_answer": "26"
+    },
+    {
+      "id": "fjgkfmg",
+      "category": "Pengetahuan Umum",
+      "question": "Siapakah penemu bola lampu?",
+      "answers": ["Thomas Alva Edison", "Isaac Newton", "Albert Einstein", "Marie Curie"],
+      "correct_answer": "Thomas Alva Edison"
+    },
+    {
+      "id": "fjgkfjg",
+      "category": "Sains",
+      "question": "Apa nama cairan yang digunakan oleh tumbuhan untuk fotosintesis?",
+      "answers": ["Hormon", "Nektar", "Klorofil", "Enzim"],
+      "correct_answer": "Klorofil"
+    },
+    {
+      "id": "jfkguei",
+      "category": "Matematika",
+      "question": "Berapakah hasil dari 45 - (15 + 7) x 2?",
+      "answers": ["16", "20", "24", "30"],
+      "correct_answer": "16"
+    },
+    {
+      "id": "fjguiok",
+      "category": "Pengetahuan Umum",
+      "question": "Negara manakah yang terkenal dengan menara Eiffel-nya?",
+      "answers": ["Jepang", "Perancis", "Spanyol", "Italia"],
+      "correct_answer": "Perancis"
+    },
+    {
+      "id": "ghjuiok",
+      "category": "Sains",
+      "question": "Bagian tubuh mana yang bertanggung jawab untuk memompa darah?",
+      "answers": ["Paru-paru", "Jantung", "Hati", "Ginjal"],
+      "correct_answer": "Jantung"
+    },
+    {
+      "id": "hfufhfu",
+      "category": "Matematika",
+      "question": "Berapakah 7 pangkat 3?",
+      "answers": ["14", "21", "28", "35"],
+      "correct_answer": "343"
+    },
+    {
+      "id": "83urhgi",
+      "category": "Pengetahuan Umum",
+      "question": "Siapakah penulis novel Harry Potter?",
+      "answers": ["J.R.R. Tolkien", "J.K. Rowling", "George R.R. Martin", "C.S. Lewis"],
+      "correct_answer": "J.K. Rowling"
+    },
+    {
+      "id": "alalald",
+      "category": "Sains",
+      "question": "Apa penyakit yang disebabkan oleh virus HIV?",
+      "answers": ["Tuberkulosis", "Malaria", "Hepatitis", "AIDS"],
+      "correct_answer": "AIDS"
+    },
+    {
+      "id": "fsdmfkl",
+      "category": "Matematika",
+      "question": "Berapakah hasil dari 15 + 30 / 5?",
+      "answers": ["10", "15", "20", "25"],
+      "correct_answer": "21"
+    },
+    {
+      "id": "fjgklki",
+      "category": "Pengetahuan Umum",
+      "question": "Negara manakah yang terkenal dengan menara Pisa-nya?",
+      "answers": ["Italia", "Spanyol", "Prancis", "Jepang"],
+      "correct_answer": "Italia"
+    },
+    {
+      "id": "fjgkdjf",
+      "category": "Sains",
+      "question": "Apa nama senyawa kimia yang simbolnya H2O?",
+      "answers": ["Garam", "Air", "Oksigen", "Air raksa"],
+      "correct_answer": "Air"
+    },
+    {
+      "id": "fjdjfir",
+      "category": "Matematika",
+      "question": "Berapakah 4 pangkat 4?",
+      "answers": ["12", "16", "24", "256"],
+      "correct_answer": "256"
+    },
+    {
+      "id": "frkfjfl",
+      "category": "Pengetahuan Umum",
+      "question": "Siapakah penemu teori relativitas?",
+      "answers": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Nikola Tesla"],
+      "correct_answer": "Albert Einstein"
+    },
+    {
+      "id": "jsgfhry",
+      "category": "Sains",
+      "question": "Apa nama alat yang digunakan untuk mengukur tekanan udara?",
+      "answers": ["Termometer", "Tachometer", "Barometer", "Anemometer"],
+      "correct_answer": "Barometer"
+    },
+    {
+      "id": "fjgirmf",
+      "category": "Matematika",
+      "question": "Berapakah hasil dari 5 x 5 + 5 ÷ 5?",
+      "answers": ["10", "15", "20", "25"],
+      "correct_answer": "26"
+    },
+    {
+      "id": "jfjfjfjk",
+      "category": "Pengetahuan Umum",
+      "question": "Siapakah penulis drama Romeo dan Juliet?",
+      "answers": ["William Shakespeare", "Jane Austen", "Charles Dickens", "Mark Twain"],
+      "correct_answer": "William Shakespeare"
+    },
+    {
+      "id": "qwerfgh",
+      "category": "Sains",
+      "question": "Apa fungsi dari paru-paru dalam tubuh manusia?",
+      "answers": ["Mengeluarkan urine", "Mengatur suhu tubuh", "Mengolah makanan", "Bernapas"],
+      "correct_answer": "Bernapas"
+    },
+    {
+      "id": "nbmcnvb",
+      "category": "Matematika",
+      "question": "Berapakah 10 pangkat 2?",
+      "answers": ["50", "100", "200", "1000"],
+      "correct_answer": "100"
+    },
+    {
+      "id": "nvhfklo",
+      "category": "Pengetahuan Umum",
+      "question": "Negara manakah yang terkenal dengan Menara Kembar Petronas-nya?",
+      "answers": ["Malaysia", "Singapura", "Thailand", "Indonesia"],
+      "correct_answer": "Malaysia"
+    },
+    {
+      "id": "qpqpdmv",
+      "category": "Sains",
+      "question": "Apa nama partikel subatomik yang bermuatan negatif?",
+      "answers": ["Proton", "Elektron", "Neutron", "Foton"],
+      "correct_answer": "Elektron"
+    },
+    {
+      "id": "fjvnbhg",
+      "category": "Matematika",
+      "question": "Berapakah hasil dari 36 ÷ (4 - 2)?",
+      "answers": ["6", "12", "18", "24"],
+      "correct_answer": "18"
+    },
+    {
+      "id": "nbmcbvn",
+      "category": "Pengetahuan Umum",
+      "question": "Siapakah tokoh dalam legenda kuda putih?",
+      "answers": ["Sun Go Kong", "Jaka Tarub", "Dewi Sri", "Raden Kian Santang"],
+      "correct_answer": "Jaka Tarub"
+    },
+    {
+      "id": "hgnbjgo",
+      "category": "Sains",
+      "question": "Apa nama senyawa kimia yang simbolnya NaCl?",
+      "answers": ["Air", "Garam", "Gula", "Asam"],
+      "correct_answer": "Garam"
+    },
+    {
+      "id": "nvbgjfo",
+      "category": "Matematika",
+      "question": "Berapakah hasil dari 3 pangkat 5?",
+      "answers": ["15", "30", "60", "243"],
+      "correct_answer": "243"
+    },
+    {
+      "id": "nvbghfk",
+      "category": "Pengetahuan Umum",
+      "question": "Siapakah penulis novel The Lord of the Rings?",
+      "answers": ["J.R.R. Tolkien", "J.K. Rowling", "George R.R. Martin", "C.S. Lewis"],
+      "correct_answer": "J.R.R. Tolkien"
+    },
+    {
+      "id": "nbmvnbu",
+      "category": "Sains",
+      "question": "Apa fungsi dari otak dalam tubuh manusia?",
+      "answers": ["Mengatur suhu tubuh", "Mengendalikan gerakan tubuh", "Memompa darah", "Mengatur keseimbangan tubuh"],
+      "correct_answer": "Mengendalikan gerakan tubuh"
+    },
+    {
+      "id": "uthgyri",
+      "category": "Matematika",
+      "question": "Berapakah hasil dari 25 - (5 x 2) + 8?",
+      "answers": ["18", "20", "22", "24"],
+      "correct_answer": "24"
+    },
+    {
+      "id": "jgnbhui",
+      "category": "Pengetahuan Umum",
+      "question": "Negara manakah yang terkenal dengan menara Big Ben-nya?",
+      "answers": ["Jerman", "Inggris", "Belanda", "Swiss"],
+      "correct_answer": "Inggris"
+    },
+    {
+      "id": "poiuytr",
+      "category": "Sains",
+      "question": "Apa nama zat yang berada di atmosfer yang melindungi bumi dari sinar ultraviolet?",
+      "answers": ["Ozon", "Oksigen", "Nitrogen", "Karbondioksida"],
+      "correct_answer": "Ozon"
+    },
+    {
+      "id": "bgyhfvc",
+      "category": "Matematika",
+      "question": "Berapakah hasil dari 100 ÷ (2 x 5)?",
+      "answers": ["10", "15", "20", "25"],
+      "correct_answer": "10"
+    },
+    {
+      "id": "nvjnghu",
+      "category": "Pengetahuan Umum",
+      "question": "Siapakah penulis novel Pride and Prejudice?",
+      "answers": ["Emily Brontë", "Jane Austen", "Charlotte Brontë", "Agatha Christie"],
+      "correct_answer": "Jane Austen"
+    },
+    {
+      "id": "nmnmnbh",
+      "category": "Sains",
+      "question": "Apa jenis darah universal yang bisa diterima oleh semua golongan darah?",
+      "answers": ["A", "B", "AB", "O"],
+      "correct_answer": "O"
+    },
+    {
+      "id": "mkmkmjo",
+      "category": "Matematika",
+      "question": "Berapakah hasil dari 7 pangkat 2?",
+      "answers": ["14", "21", "28", "49"],
+      "correct_answer": "49"
+    },
+    {
+      "id": "yuyuhgt",
+      "category": "Pengetahuan Umum",
+      "question": "Siapakah presiden pertama Indonesia?",
+      "answers": ["Soekarno", "Soeharto", "Megawati", "Jokowi"],
+      "correct_answer": "Soekarno"
+    },
+    {
+      "id": "lollllo",
+      "category": "Sains",
+      "question": "Apa nama senyawa kimia yang simbolnya H2SO4?",
+      "answers": ["Asam sulfat", "Asam nitrat", "Asam klorida", "Asam fosfat"],
+      "correct_answer": "Asam sulfat"
+    },
+    {
+      "id": "oioijui",
+      "category": "Matematika",
+      "question": "Berapakah hasil dari 12 ÷ (6 + 2) x 3?",
+      "answers": ["3", "6", "9", "12"],
+      "correct_answer": "9"
+    },
+    {
+      "id": "aiaijui",
+      "category": "Pengetahuan Umum",
+      "question": "Negara manakah yang terkenal dengan menara Burj Khalifa-nya?",
+      "answers": ["Mesir", "Uni Emirat Arab", "Arab Saudi", "Kuwait"],
+      "correct_answer": "Uni Emirat Arab"
+    },
+    {
+      "id": "fjghuju",
+      "category": "Sains",
+      "question": "Apa nama bagian terbesar dari otak manusia?",
+      "answers": ["Hemisfer kiri", "Hemisfer kanan", "Bulbus olfaktorius", "Cerebrum"],
+      "correct_answer": "Cerebrum"
+    },
+    {
+      "id": "fnbmkmk",
+      "category": "Matematika",
+      "question": "Berapakah hasil dari 9 pangkat 3?",
+      "answers": ["27", "54", "81", "108"],
+      "correct_answer": "729"
+    },
+    {
+      "id": "vnjnbnm",
+      "category": "Pengetahuan Umum",
+      "question": "Siapakah penulis novel The Great Gatsby?",
+      "answers": ["F. Scott Fitzgerald", "Ernest Hemingway", "Mark Twain", "J.D. Salinger"],
+      "correct_answer": "F. Scott Fitzgerald"
+    },
+    {
+      "id": "njnjnjo",
+      "category": "Sains",
+      "question": "Apa nama alat yang digunakan untuk mengukur tekanan darah?",
+      "answers": ["Termometer", "Barometer", "Stetoskop", "Thermometer"],
+      "correct_answer": "Stetoskop"
+    },
+    {
+      "id": "bvnbgyt",
+      "category": "Matematika",
+      "question": "Berapakah hasil dari 40 + (6 x 3) - 12?",
+      "answers": ["34", "38", "40", "42"],
+      "correct_answer": "40"
+    },
+    {
+      "id": "rtryuio",
+      "category": "Pengetahuan Umum",
+      "question": "Siapakah penulis drama Hamlet?",
+      "answers": ["William Shakespeare", "Jane Austen", "Charles Dickens", "Mark Twain"],
+      "correct_answer": "William Shakespeare"
+    },
+    {
+      "id": "hgvnbhi",
+      "category": "Sains",
+      "question": "Apa jenis alat musik tiup yang terkenal dari Skotlandia?",
+      "answers": ["Biola", "Suling", "Gitar", "Duduk"],
+      "correct_answer": "Suling"
+    },
+    {
+      "id": "uiuihvj",
+      "category": "Matematika",
+      "question": "Berapakah hasil dari 5 pangkat 4?",
+      "answers": ["10", "20", "25", "100"],
+      "correct_answer": "625"
+    },
+    {
+      "id": "mbnhjko",
+      "category": "Pengetahuan Umum",
+      "question": "Negara manakah yang terkenal dengan menara Tokyo Skytree-nya?",
+      "answers": ["Jepang", "Korea Selatan", "Cina", "Vietnam"],
+      "correct_answer": "Jepang"
+    },
+    {
+      "id": "mkokiju",
+      "category": "Sains",
+      "question": "Apa nama senyawa kimia yang simbolnya CO2?",
+      "answers": ["Karbon dioksida", "Asam sulfat", "Asam klorida", "Natrium klorida"],
+      "correct_answer": "Karbon dioksida"
+    },
+    {
+      "id": "nbmkmki",
+      "category": "Matematika",
+      "question": "Berapakah hasil dari 15 ÷ (5 + 2) x 4?",
+      "answers": ["6", "8", "10", "12"],
+      "correct_answer": "12"
+    },
+    {
+      "id": "vhbghin",
+      "category": "Pengetahuan Umum",
+      "question": "Siapakah tokoh legenda Malin Kundang?",
+      "answers": ["Raden Kian Santang", "Ki Ageng Sela", "Sangkuriang", "Malin Kundang"],
+      "correct_answer": "Malin Kundang"
+    },
+    {
+      "id": "vnjbodg",
+      "category": "Sains",
+      "question": "Apa nama senyawa kimia yang simbolnya HCl?",
+      "answers": ["Asam sulfat", "Asam nitrat", "Asam klorida", "Asam fosfat"],
+      "correct_answer": "Asam klorida"
+    },
+    {
+      "id": "nbhuocn",
+      "category": "Matematika",
+      "question": "Berapakah hasil dari 20 x (4 ÷ 2) + 5?",
+      "answers": ["25", "30", "35", "40"],
+      "correct_answer": "45"
+    },
+    {
+      "id": "nvjfigu",
+      "category": "Pengetahuan Umum",
+      "question": "Negara manakah yang terkenal dengan menara CN Tower-nya?",
+      "answers": ["Kanada", "Amerika Serikat", "Australia", "Inggris"],
+      "correct_answer": "Kanada"
+    },
+    {
+      "id": "jfkgnbk",
+      "category": "Sains",
+      "question": "Apa nama zat yang berada di kulit yang melindungi dari sinar matahari?",
+      "answers": ["Melanin", "Keratin", "Kolagen", "Klorofil"],
+      "correct_answer": "Melanin"
+    },
+    {
+      "id": "hgjuilg",
+      "category": "Matematika",
+      "question": "Berapakah hasil dari 3 pangkat 6?",
+      "answers": ["18", "27", "64", "729"],
+      "correct_answer": "729"
+    },
+    {
+      "id": "jbmnjkl",
+      "category": "Pengetahuan Umum",
+      "question": "Siapakah penulis novel The Catcher in the Rye?",
+      "answers": ["F. Scott Fitzgerald", "J.D. Salinger", "Ernest Hemingway", "Mark Twain"],
+      "correct_answer": "J.D. Salinger"
+    },
+    {
+      "id": "hgyuhgn",
+      "category": "Sains",
+      "question": "Apa fungsi dari ginjal dalam tubuh manusia?",
+      "answers": ["Mengatur suhu tubuh", "Mengendalikan gerakan tubuh", "Memompa darah", "Mengeluarkan limbah"],
+      "correct_answer": "Mengeluarkan limbah"
+    },
+    {
+      "id": "nbmnjkl",
+      "category": "Matematika",
+      "question": "Berapakah hasil dari 50 - (5 x 4) + 6?",
+      "answers": ["24", "26", "28", "30"],
+      "correct_answer": "26"
+    },
+    {
+      "id": "jbnghjl",
+      "category": "Pengetahuan Umum",
+      "question": "Negara manakah yang terkenal dengan menara Berlin TV Tower-nya?",
+      "answers": ["Jerman", "Rusia", "Perancis", "Swedia"],
+      "correct_answer": "Jerman"
+    },
+    {
+      "id": "jghbnji",
+      "category": "Sains",
+      "question": "Apa nama alat yang digunakan untuk mengukur temperatur tubuh?",
+      "answers": ["Termometer", "Barometer", "Kompas", "Thermometer"],
+      "correct_answer": "Termometer"
+    },
+    {
+      "id": "jghbnjo",
+      "category": "Matematika",
+      "question": "Berapakah hasil dari 10 ÷ (2 + 3) x 4?",
+      "answers": ["4", "6", "8", "10"],
+      "correct_answer": "8"
+    },
+    {
+      "id": "jkjkiou",
+      "category": "Pengetahuan Umum",
+      "question": "Siapakah tokoh legenda Roro Jonggrang?",
+      "answers": ["Jaka Tarub", "Raden Kian Santang", "Roro Jonggrang", "Lutung Kasarung"],
+      "correct_answer": "Roro Jonggrang"
+    },
+    {
+      "id": "nbmnjkg",
+      "category": "Sains",
+      "question": "Apa nama alat yang digunakan untuk mendengarkan suara dari jauh?",
+      "answers": ["Kompas", "Mikroskop", "Teleskop", "Termometer"],
+      "correct_answer": "Teleskop"
+    },
+    {
+      "id": "nbnghjg",
+      "category": "Matematika",
+      "question": "Berapakah hasil dari 9 pangkat 2?",
+      "answers": ["14", "21", "28", "81"],
+      "correct_answer": "81"
+    },
+    {
+      "id": "mbnvbbn",
+      "category": "Pengetahuan Umum",
+      "question": "Siapakah presiden pertama Amerika Serikat?",
+      "answers": ["George Washington", "Thomas Jefferson", "Abraham Lincoln", "John F. Kennedy"],
+      "correct_answer": "George Washington"
+    },
+    {
+      "id": "jghguiu",
+      "category": "Sains",
+      "question": "Apa nama senyawa kimia yang simbolnya C6H12O6?",
+      "answers": ["Gula", "Air", "Garam", "Minyak"],
+      "correct_answer": "Gula"
+    },
+    {
+      "id": "lklkjio",
+      "category": "Matematika",
+      "question": "Berapakah hasil dari 6 ÷ (3 - 1) x 5?",
+      "answers": ["5", "10", "15", "20"],
+      "correct_answer": "15"
+    },
+    {
+      "id": "nbmklko",
+      "category": "Pengetahuan Umum",
+      "question": "Negara manakah yang terkenal dengan menara Leaning Tower of Pisa-nya?",
+      "answers": ["Italia", "Spanyol", "Perancis", "Jerman"],
+      "correct_answer": "Italia"
+    },
+    {
+      "id": "nbjkjhu",
+      "category": "Sains",
+      "question": "Apa fungsi dari usus dalam tubuh manusia?",
+      "answers": ["Mengatur suhu tubuh", "Mengendalikan gerakan tubuh", "Memompa darah", "Mengolah makanan"],
+      "correct_answer": "Mengolah makanan"
+    },
+    {
+      "id": "tytyfgv",
+      "category": "Matematika",
+      "question": "Berapakah hasil dari 16 pangkat 2?",
+      "answers": ["14", "28", "32", "256"],
+      "correct_answer": "256"
+    },
+    {
+      "id": "oeoeoeo",
+      "category": "Pengetahuan Umum",
+      "question": "Siapakah penulis novel To Kill a Mockingbird?",
+      "answers": ["Harper Lee", "J.D. Salinger", "F. Scott Fitzgerald", "Ernest Hemingway"],
+      "correct_answer": "Harper Lee"
+    },
+    {
+      "id": "nbnbjkj",
+      "category": "Sains",
+      "question": "Apa nama bagian tubuh manusia yang menjadi pusat koordinasi sistem saraf?",
+      "answers": ["Otot", "Hati", "Ginjal", "Otak"],
+      "correct_answer": "Otak"
+    },
+    {
+      "id": "nbmnjkf",
+      "category": "Matematika",
+      "question": "Berapakah hasil dari 30 + (2 x 5) - 8?",
+      "answers": ["20", "24", "28", "32"],
+      "correct_answer": "28"
+    },
+    {
+      "id": "fnbjfkg",
+      "category": "Pengetahuan Umum",
+      "question": "Negara manakah yang terkenal dengan menara Eiffel-nya?",
+      "answers": ["Jepang", "Perancis", "Spanyol", "Italia"],
+      "correct_answer": "Perancis"
+    },
+    {
+      "id": "alakvmb",
+      "category": "Sains",
+      "question": "Apa nama bagian tubuh yang berfungsi untuk mencerna makanan?",
+      "answers": ["Jantung", "Paru-paru", "Hati", "Usus"],
+      "correct_answer": "Usus"
+    },
+    {
+      "id": "lvmodhg",
+      "category": "Matematika",
+      "question": "Berapakah hasil dari 25 ÷ (5 + 5) x 2?",
+      "answers": ["2", "5", "8", "10"],
+      "correct_answer": "4"
+    },
+    {
+      "id": "bmnjdoi",
+      "category": "Pengetahuan Umum",
+      "question": "Siapakah penulis novel The Hobbit?",
+      "answers": ["J.R.R. Tolkien", "J.K. Rowling", "George R.R. Martin", "C.S. Lewis"],
+      "correct_answer": "J.R.R. Tolkien"
+    },
+    {
+      "id": "pppkoiu",
+      "category": "Sains",
+      "question": "Apa jenis alat musik gesek yang terkenal dari Jepang?",
+      "answers": ["Biola", "Suling", "Gitar", "Shamisen"],
+      "correct_answer": "Shamisen"
+    },
+    {
+      "id": "nnnmbn8",
+      "category": "Matematika",
+      "question": "Berapakah hasil dari 6 pangkat 3?",
+      "answers": ["12", "18", "36", "216"],
+      "correct_answer": "216"
+    },
+    {
+      "id": "fhvnbhu",
+      "category": "Pengetahuan Umum",
+      "question": "Negara manakah yang terkenal dengan menara Kuala Lumpur Tower-nya?",
+      "answers": ["Malaysia", "Singapura", "Thailand", "Indonesia"],
+      "correct_answer": "Malaysia"
+    },
+    {
+      "id": "wehfyui",
+      "category": "Sains",
+      "question": "Apa nama partikel subatomik yang bermuatan positif?",
+      "answers": ["Proton", "Elektron", "Neutron", "Foton"],
+      "correct_answer": "Proton"
+    },
+    {
+      "id": "fofioiu",
+      "category": "Matematika",
+      "question": "Berapakah hasil dari 35 ÷ (5 - 2) x 6?",
+      "answers": ["18", "30", "36", "42"],
+      "correct_answer": "42"
+    },
+    {
+      "id": "fjfhgyu",
+      "category": "Pengetahuan Umum",
+      "question": "Siapakah penulis novel 1984?",
+      "answers": ["J.D. Salinger", "George Orwell", "F. Scott Fitzgerald", "Ernest Hemingway"],
+      "correct_answer": "George Orwell"
+    },
+    {
+      "id": "gnbmnjn",
+      "category": "Sains",
+      "question": "Apa fungsi dari paru-paru dalam tubuh manusia?",
+      "answers": ["Mengeluarkan urine", "Mengatur suhu tubuh", "Mengolah makanan", "Bernapas"],
+      "correct_answer": "Bernapas"
+    },
+    {
+      "id": "bmnjklk",
+      "category": "Matematika",
+      "question": "Berapakah hasil dari 2 pangkat 8?",
+      "answers": ["8", "16", "64", "256"],
+      "correct_answer": "256"
+    },
+    {
+      "id": "bobkbok",
+      "category": "Pengetahuan Umum",
+      "question": "Siapakah penulis novel The Adventures of Tom Sawyer?",
+      "answers": ["J.R.R. Tolkien", "J.K. Rowling", "Mark Twain", "C.S. Lewis"],
+      "correct_answer": "Mark Twain"
+    },
+    {
+      "id": "bmnkgjb",
+      "category": "Sains",
+      "question": "Apa penyakit yang disebabkan oleh virus yang ditularkan melalui gigitan nyamuk?",
+      "answers": ["Influenza", "Malaria", "Hepatitis", "COVID-19"],
+      "correct_answer": "Malaria"
+    },
+    {
+      "id": "bmnjkvm",
+      "category": "Matematika",
+      "question": "Berapakah hasil dari 7 pangkat 4?",
+      "answers": ["14", "21", "28", "2401"],
+      "correct_answer": "2401"
+    },
+    {
+      "id": "fmbkmkw",
+      "category": "Pengetahuan Umum",
+      "question": "Negara manakah yang terkenal dengan menara Shanghai Tower-nya?",
+      "answers": ["Jepang", "Korea Selatan", "Cina", "Vietnam"],
+      "correct_answer": "Cina"
+    },
+    {
+      "id": "fjbnsuf",
+      "category": "Sains",
+      "question": "Apa nama senyawa kimia yang simbolnya H2O2?",
+      "answers": ["Oksigen", "Gula", "Garam", "Air raksa"],
+      "correct_answer": "Air raksa"
+    },
+    {
+      "id": "oiufhvu",
+      "category": "Matematika",
+      "question": "Berapakah hasil dari 40 ÷ (4 + 4) x 5?",
+      "answers": ["20", "25", "30", "35"],
+      "correct_answer": "25"
+    },
+    {
+      "id": "fnvjfnv",
+      "category": "Pengetahuan Umum",
+      "question": "Siapakah penulis novel The Great Gatsby?",
+      "answers": ["F. Scott Fitzgerald", "Ernest Hemingway", "Mark Twain", "J.D. Salinger"],
+      "correct_answer": "F. Scott Fitzgerald"
+    },
+    {
+      "id": "fnbjnbj",
+      "category": "Sains",
+      "question": "Apa fungsi dari paru-paru dalam tubuh manusia?",
+      "answers": ["Mengatur suhu tubuh", "Mengendalikan gerakan tubuh", "Memompa darah", "Bernapas"],
+      "correct_answer": "Bernapas"
+    },
+    {
+      "id": "mnbhuuu",
+      "category": "Matematika",
+      "question": "Berapakah hasil dari 5 pangkat 3?",
+      "answers": ["15", "30", "45", "125"],
+      "correct_answer": "125"
+    },
+    {
+      "id": "aaaloip",
+      "category": "Pengetahuan Umum",
+      "question": "Negara manakah yang terkenal dengan menara Tokyo Skytree-nya?",
+      "answers": ["Jepang", "Korea Selatan", "Cina", "Vietnam"],
+      "correct_answer": "Jepang"
+    },
+    {
+      "id": "popoiii",
+      "category": "Sains",
+      "question": "Apa nama senyawa kimia yang simbolnya CH4?",
+      "answers": ["Oksigen", "Karbon dioksida", "Metana", "Amonia"],
+      "correct_answer": "Metana"
+    },
+    {
+      "id": "pppoioi",
+      "category": "Matematika",
+      "question": "Berapakah hasil dari 15 ÷ (5 - 1) x 3?",
+      "answers": ["5", "10", "15", "20"],
+      "correct_answer": "15"
+    },
+    {
+      "id": "fnvhhjk",
+      "category": "Pengetahuan Umum",
+      "question": "Siapakah penulis novel Pride and Prejudice?",
+      "answers": ["Emily Brontë", "Jane Austen", "Charlotte Brontë", "Agatha Christie"],
+      "correct_answer": "Jane Austen"
+    },
+    {
+      "id": "vkbnhjo",
+      "category": "Sains",
+      "question": "Apa jenis darah universal yang bisa diterima oleh semua golongan darah?",
+      "answers": ["A", "B", "AB", "O"],
+      "correct_answer": "O"
+    }
+  ]
+}
